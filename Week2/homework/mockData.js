@@ -109,7 +109,7 @@ export const author = [
   },
   {
     author_no: 13,
-    author_name: 'Ramos',
+    author_name: 'Sergio',
     university: 'Madrid',
     date_of_birth: '1987-12-24',
     h_index: 6,
